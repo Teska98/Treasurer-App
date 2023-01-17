@@ -1,2 +1,2 @@
-# Treasurer app for LC Sarajevo
+# Treasurer app 
 Created during a two day PHP Laravel workshop
